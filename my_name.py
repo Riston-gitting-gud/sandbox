@@ -1,1 +1,1 @@
-"""RISTON DUMBAS"""
+print("Hello GitHub")
